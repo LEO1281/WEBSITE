@@ -54,7 +54,7 @@ function App() {
         <div className="relative max-w-7xl mx-auto px-4 h-full flex items-center">
           <div className="text-white max-w-2xl">
             <h1 className="text-5xl font-bold mb-4">SR Overseas Consultancy</h1>
-            <p className="text-xl mb-8">Your Trusted Partner for International Education in Narasaraopet</p>
+            <p className="text-xl mb-8">Your Trusted Partner for International Education </p>
             <div className="flex gap-4">
               <button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-lg font-semibold transition flex items-center">
                 Get Free Consultation <ChevronRight className="ml-2 w-5 h-5" />
@@ -239,7 +239,7 @@ function App() {
                 </div>
                 <div className="flex items-center">
                   <Mail className="w-6 h-6 mr-4 text-blue-500" />
-                  <p>sreduoverseasconsultancy.com</p>
+                  <p>sreduoverseasconsultancy@gmail.com</p>
                 </div>
                 <div className="mt-8">
                   <h4 className="font-semibold mb-4">Office Hours</h4>
